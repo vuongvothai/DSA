@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=1 lang=cpp
+ *
+ * [1] Two Sum
+ */
+
+// @lc code=start
 #include <vector>
 #include <unordered_map>
 using namespace std;
@@ -20,3 +27,5 @@ public:
         return {};
     }
 };
+// @lc code=end
+
